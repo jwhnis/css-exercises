@@ -1,3 +1,19 @@
-* {
-    background-color:black
-}
+.LB, .RB {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 36px;
+    }
+
+    * {
+        text-align: center;
+        background-color: black;
+    }
+
+    .LB {
+        background-color: black;
+        color: white;
+    }
+
+    .RB {
+        background-color: yellow;
+        color: black;
+    }

@@ -1,11 +1,6 @@
 .LB, .RB {
-    font-family:'Times New Roman', Times, serif;
-    font-size: 36px;
-    }
-
-    * {
-        text-align: center;
-        background-color: black;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
     }
 
     .LB {
